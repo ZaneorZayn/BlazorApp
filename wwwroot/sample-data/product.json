@@ -1,0 +1,27 @@
+﻿[
+  {
+    "productId": "101",
+    "description": "Wireless Bluetooth Headphones with noise cancellation",
+    "price": "59.99"
+  },
+  {
+    "productId": "102",
+    "description": "Smartphone with 128GB storage and 48MP camera",
+    "price": "122"
+  },
+  {
+    "productId": "103",
+    "description": "4K Ultra HD Smart LED TV, 55-inch",
+    "price": "500"
+  },
+  {
+    "productId": "104",
+    "description": "Laptop with Intel i7, 16GB RAM, and 512GB SSD",
+    "price": "900"
+  },
+  {
+    "productId": "105",
+    "description": "Wireless Gaming Mouse with RGB lighting",
+    "price": "30"
+  }
+]
